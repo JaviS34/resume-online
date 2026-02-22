@@ -3,4 +3,4 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: "RESUME OF [Javier Sauceda]" # Replace "[Your Name]" with your first and last name.
+title: "Javier Sauceda's Resume"
