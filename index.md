@@ -2,10 +2,9 @@
 Electrical Engineer | Software Developer  
 
 📍 Longview, TX  
-📧 your.email@example.com  
-🔗 [GitHub](https://github.com/yourusername)  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🔗 [Portfolio / Website](https://yourwebsite.com)
+📧 javiersauceda900@gmail.com
+🔗 [GitHub](https://github.com/JaviS34)  
+🔗 [LinkedIn](https://www.linkedin.com/in/javier-sauceda-2a2195239/)  
 
 ---
 
