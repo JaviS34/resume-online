@@ -3,6 +3,7 @@ Electrical Engineer | Software Developer
 
 📍 Longview, TX  
 📧 javiersauceda900@gmail.com
+
 🔗 [GitHub](https://github.com/JaviS34)  
 🔗 [LinkedIn](https://www.linkedin.com/in/javier-sauceda-2a2195239/)  
 
